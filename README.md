@@ -1,4 +1,4 @@
-# my-blue-theme
+# 3ative-blue-theme
 
 My cuurnt theme:
 
