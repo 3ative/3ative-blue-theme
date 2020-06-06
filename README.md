@@ -4,7 +4,8 @@
 [![maintained](https://img.shields.io/maintenance/yes/2020.svg?style=flat-square&labelColor=2ea9f4&color=1473ae)](#)
 
 > My 'Blue' theme, give a cool electric feel to LoveLace.
-You can download the custom background and place that in your **config/www/** folder
+
+Don't forget to download my custom background "3ative_bg.jpg" and place it in your **/config/www/** folder... or use your own.
 
 **Screenshots**
 
