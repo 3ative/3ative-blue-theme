@@ -5,7 +5,7 @@
 > My 'Blue' theme, give a cool electric feel to LoveLace.
 
 > ***Also: Download my custom background "3ative_bg.jpg" and place it in your **/config/www/** folder... or use your own.***
-https://github.com/3ative/3ative-blue-theme/blob/master/www/3ative_bg.jpg
+https://github.com/3ative/3ative-blue-theme/blob/master/3ative_bg.jpg
 
 **Screenshots**
 
@@ -30,7 +30,7 @@ https://github.com/3ative/3ative-blue-theme/blob/master/www/3ative_bg.jpg
 frontend:
   themes: !include_dir_merge_named themes
 ```
-* Copy the https://github.com/3ative/3ative-blue-theme/blob/master/www/3ative_bg.jpg to your ***config/www/** folder
+* Copy the https://github.com/3ative/3ative-blue-theme/blob/master/3ative_bg.jpg to your ***config/www/** folder
 * Finally enable the theme from your profile page or `configuration.yaml`
 
 ### HACS installation
