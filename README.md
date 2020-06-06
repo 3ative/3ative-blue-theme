@@ -30,6 +30,7 @@ https://github.com/3ative/3ative-blue-theme/blob/master/www/3ative_bg.jpg
 frontend:
   themes: !include_dir_merge_named themes
 ```
+* Copy the https://github.com/3ative/3ative-blue-theme/blob/master/www/3ative_bg.jpg to your ***config/www/** folder
 * Finally enable the theme from your profile page or `configuration.yaml`
 
 ### HACS installation
