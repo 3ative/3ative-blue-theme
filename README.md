@@ -6,9 +6,7 @@
 
 > My 'Blue' theme, give a cool electric feel to LoveLace.
 
-**Download the background "3ative_bg.jpg"** >> https://github.com/3ative/3ative-blue-theme/blob/master/3ative_bg.jpg
-
-and save it in your `/config/www/` folder...** or use your own (just use the same file name) 😎
+**Download the background "3ative_bg.jpg" https://github.com/3ative/3ative-blue-theme/blob/master/3ative_bg.jpg and save it in your `/config/www/` folder...** or use your own (just use the same file name) 😎
 
 
 **Screenshots**
