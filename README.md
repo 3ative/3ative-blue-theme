@@ -41,4 +41,9 @@ frontend:
 3. Press Install
 4. Restart Home Assistant
 
+### No Background image?
+If the Background image is not showing, make sure you have **"- background: var(--background-image)"** in your `raw config` setup under `views:` ...
+
+![6](https://github.com/3ative/3ative-blue-theme/blob/master/screenshots/bg_var.JPG)
+
 [![BMC](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/3ative)
