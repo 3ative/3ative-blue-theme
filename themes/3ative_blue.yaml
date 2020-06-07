@@ -13,6 +13,8 @@
   paper-card-background-color: "rgba(0, 0, 0, 0.6)"  # Cards Background Colour
   ch-background: "rgba(0, 0, 0, 0.6)"  # Top bar
   ha-card-border-radius: 3px
+  card-background-color: "#1b3a60"
+  markdown-code-background-color: "#112640"
 
   ### Text ###
   primary-text-color: "#c5c5c5" # Main Text Colour
