@@ -1,6 +1,6 @@
 # 3ative 'blue' Theme
 
-[![Version](https://img.shields.io/badge/version-1.2-green.svg?style=flat-square&labelColor=2ea9f4&color=1473ae)](#) [![maintained](https://img.shields.io/maintenance/yes/2020.svg?style=flat-square&labelColor=2ea9f4&color=1473ae)](#) ![GitHub All Releases](https://img.shields.io/github/downloads/3ative/3ative-blue-theme/total?color=2ea9f4&label=Total%20downloads&style=flat-square&labelColor=2ea9f4&color=1473ae)
+[![Version](https://img.shields.io/badge/version-1.3-green.svg?style=flat-square&labelColor=2ea9f4&color=1473ae)](#) [![maintained](https://img.shields.io/maintenance/yes/2020.svg?style=flat-square&labelColor=2ea9f4&color=1473ae)](#) ![GitHub All Releases](https://img.shields.io/github/downloads/3ative/3ative-blue-theme/total?color=2ea9f4&label=Total%20downloads&style=flat-square&labelColor=2ea9f4&color=1473ae)
 
 > My 'Blue' theme, give a cool electric feel to LoveLace.
 
