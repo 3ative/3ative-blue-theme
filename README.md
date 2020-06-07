@@ -1,4 +1,4 @@
-# 3ative 'blue' Theme
+# 3Ative 'Blue' Theme
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/3ative/3ative-blue-theme?label=Version&style=flat-square&labelColor=2ea9f4&color=1473ae) ![maintained](https://img.shields.io/maintenance/yes/2020.svg?style=flat-square&labelColor=2ea9f4&color=1473ae) ![GitHub All Releases](https://img.shields.io/github/downloads/3ative/3ative-blue-theme/total?&label=Total%20Downloads&style=flat-square&labelColor=2ea9f4&color=1473ae)
 
@@ -9,7 +9,7 @@
 **Download the background "3ative_bg.jpg" https://github.com/3ative/3ative-blue-theme/blob/master/3ative_bg.jpg and save it in your `/config/www/` folder...** or use your own (just use the same file name) 😎
 
 
-**Screenshots**
+### Screenshots
 
 **Main Page**
 ![1](https://github.com/3ative/3ative-blue-theme/blob/master/screenshots/01-front.JPG)
@@ -20,7 +20,7 @@
 **Devices**
 ![4](https://github.com/3ative/3ative-blue-theme/blob/master/screenshots/04%20devices.JPG)
 
-**Include BG image**
+**Included BG image**
 ![5](https://github.com/3ative/3ative-blue-theme/blob/master/3ative_bg.jpg)
 
 ## Installation
