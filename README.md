@@ -28,7 +28,7 @@
 * Find your homeassistant directory containing your configuration (let's say `/config/`)
 * Change into `/config/themes` (create the `themes` directory, if it does not exist, you then might have to restart HA)
 * Ensure HA knows your new theme file - add this to your `configuration.yaml`
-``` yaml
+```yaml
 frontend:
   themes: !include_dir_merge_named themes
 ```
