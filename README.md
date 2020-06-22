@@ -30,7 +30,7 @@
 * Ensure HA knows your new theme file - add this to your `configuration.yaml`
 ```yaml
 frontend:
-  themes: !include_dir_merge_named themes
+    themes: !include_dir_merge_named themes
 ```
 * Copy the https://github.com/3ative/3ative-blue-theme/blob/master/3ative_bg.jpg to your ***config/www/** folder
 * Finally enable the theme from your profile page or `configuration.yaml`
