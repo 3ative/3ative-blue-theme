@@ -11,6 +11,7 @@
 
   ### Cards ###
   ch-background: "rgba(0, 0, 0, 0.6)"  # fix for 0.113
+  mdc-theme-surface: "rgb(16 44 75)"  # Pop up card BG fix for 0.113
   ha-card-border-radius: 3px
   card-background-color: "rgba(0, 0, 0, 0.6)" # Cards Background Colour
   markdown-code-background-color: "#112640"
