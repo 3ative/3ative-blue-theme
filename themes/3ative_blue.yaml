@@ -15,6 +15,7 @@
   ha-card-border-radius: 3px
   card-background-color: "rgba(0, 0, 0, 0.6)" # Cards Background Colour
   markdown-code-background-color: "#112640"
+  material-background-color: var(--mdc-theme-surface) #Dropdown Menu BG
 
   ### Text ###
   primary-text-color: "#c5c5c5" # Main Text Colour
