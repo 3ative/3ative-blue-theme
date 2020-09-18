@@ -19,7 +19,7 @@
   material-background-color: var(--mdc-theme-surface) #Dropdown Menu BG
 
   ### Text ###
-  primary-text-color: "#abdcff" # Main Text Colour
+  primary-text-color: "#dbe0e4" # Main Text Colour
   secondary-text-color: "#12afff"
   text-primary-color: "white" # Page Header Text & Icon text Color
   disabled-text-color: "#A3A3A3"
