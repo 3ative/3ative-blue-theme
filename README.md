@@ -15,13 +15,16 @@
 ![1](https://github.com/3ative/3ative-blue-theme/blob/master/screenshots/01-front.JPG)
 **Config**
 ![2](https://github.com/3ative/3ative-blue-theme/blob/master/screenshots/02%20config.JPG)
+**History (NEW) **
+![3](https://user-images.githubusercontent.com/51385971/129607168-c67e50e1-7223-403b-b0ad-87498456eeaa.JPG)
 **States**
-![3](https://github.com/3ative/3ative-blue-theme/blob/master/screenshots/03%20States.JPG)
+![4](https://github.com/3ative/3ative-blue-theme/blob/master/screenshots/03%20States.JPG)
+
 **Devices**
-![4](https://github.com/3ative/3ative-blue-theme/blob/master/screenshots/04%20devices.JPG)
+![5](https://github.com/3ative/3ative-blue-theme/blob/master/screenshots/04%20devices.JPG)
 
 **Included BG image**
-![5](https://github.com/3ative/3ative-blue-theme/blob/master/3ative_bg.jpg)
+![6](https://github.com/3ative/3ative-blue-theme/blob/master/3ative_bg.jpg)
 
 ## Installation
 
