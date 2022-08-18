@@ -1,3 +1,5 @@
 {
-    "name": "3Ative Blue Theme"
+  "name": "3Ative Blue Theme",
+  "content_in_root": false,
+  "render_readme": true
 }
