@@ -1,8 +1,7 @@
-# 3Ative 'Blue' Theme
+# 3Ative Blue Theme
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/3ative/3ative-blue-theme?label=Version&style=flat-square&labelColor=2ea9f4&color=1473ae) ![maintained](https://img.shields.io/maintenance/yes/2020.svg?style=flat-square&labelColor=2ea9f4&color=1473ae) ![GitHub All Releases](https://img.shields.io/github/downloads/3ative/3ative-blue-theme/total?&label=Total%20Downloads&style=flat-square&labelColor=2ea9f4&color=1473ae)
-
-
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/3ative/3ative-blue-theme?label=Version&style=flat-square&labelColor=2ea9f4&color=1473ae)
 
 > My 'Blue' theme, give a cool electric feel to LoveLace.
 
@@ -15,13 +14,16 @@
 ![1](https://github.com/3ative/3ative-blue-theme/blob/master/screenshots/01-front.JPG)
 **Config**
 ![2](https://github.com/3ative/3ative-blue-theme/blob/master/screenshots/02%20config.JPG)
+**History (NEW)**
+![3](https://user-images.githubusercontent.com/51385971/129607168-c67e50e1-7223-403b-b0ad-87498456eeaa.JPG)
 **States**
-![3](https://github.com/3ative/3ative-blue-theme/blob/master/screenshots/03%20States.JPG)
+![4](https://github.com/3ative/3ative-blue-theme/blob/master/screenshots/03%20States.JPG)
+
 **Devices**
-![4](https://github.com/3ative/3ative-blue-theme/blob/master/screenshots/04%20devices.JPG)
+![5](https://github.com/3ative/3ative-blue-theme/blob/master/screenshots/04%20devices.JPG)
 
 **Included BG image**
-![5](https://github.com/3ative/3ative-blue-theme/blob/master/3ative_bg.jpg)
+![6](https://github.com/3ative/3ative-blue-theme/blob/master/3ative_bg.jpg)
 
 ## Installation
 
@@ -46,4 +48,9 @@ If the Background image is not showing, make sure you have **"- background: var(
 
 ![6](https://github.com/3ative/3ative-blue-theme/blob/master/screenshots/bg_var.JPG)
 
-[![BMC](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/3ative)
+🎁 Found this useful or want to say 'thanks' and support my efforts...
+
+[![BMC](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/3ative) **And leave a me a message to let me know.**  ❤
+
+🍺 CHEERS! 👍
+
