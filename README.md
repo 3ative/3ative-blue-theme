@@ -48,9 +48,8 @@ If the Background image is not showing, make sure you have **"- background: var(
 
 ![6](https://github.com/3ative/3ative-blue-theme/blob/master/screenshots/bg_var.JPG)
 
-🎁 Found this useful or want to say 'thanks' and support my efforts...
-
-[![BMC](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/3ative) **And leave a me a message to let me know.**  ❤
-
-🍺 CHEERS! 👍
+#### 💖 Found this useful, want to say '*Thanks*' and support my efforts. *CHEERS*🍺
+| Buy me a Coffee | PATREON |
+|-----------------|---------|
+| https://www.buymeacoffee.com/3ative | https://www.patreon.com/3ative |
 
