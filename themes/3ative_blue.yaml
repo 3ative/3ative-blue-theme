@@ -50,6 +50,7 @@
   state-icon-unavailable-color: var(--disabled-text-color)
 
   ### Sliders ###
+  state-light-on-color: var(--3ative_main_on_colour) # Mono Light Slider Colour
   paper-slider-knob-color: "rgb(104, 204, 255)"
   paper-slider-knob-start-color: var(--state-icon-color) # Slider Knob Off Color
   paper-slider-pin-color: var(--state-icon-active-color)
