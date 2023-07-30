@@ -38,19 +38,21 @@
   sidebar-selected-text-color: var(--primary-text-color)
 
   ############## Icons ##############
+  button-card-light-color: rgb(255 0 0)
+  state-switch-active-color: var(--3ative_main_on_colour) # Light Swtich On Colour
+  state-automation-active-color: var(--3ative_main_on_colour)
+  state-binary_sensor-opening-on-color: var(--3ative_main_on_colour) # Binary Sensor (Door/Window) On Colour
+  state-binary_sensor-on-color: var(--3ative_main_on_colour)
+  state-binary_sensor-motion-on-color: var(--3ative_main_on_colour) # Binary Sensor (Motion) On Colour
+  state-input_boolean-on-color: var(--3ative_main_on_colour) # Input Boolean On Colour
   state-person-home-color: var(--3ative_main_on_colour) #Person "Home" Colour
   state-switch-on-color: var(--3ative_main_on_colour) # Switch On Colour
-  state-switch-off-color: var(--3ative_main_off_colour) # Switch Off Colour
-  state-switch-active-color: var(--3ative_main_on_colour) # Light Swtich On Colour
-  state-active-color: var(--3ative_main_off_colour) # Light Swtich Off Colour
-  state-binary_sensor-motion-on-color: var(--3ative_main_on_colour) # Binary Sensor (Motion) On Colour
-  state-binary_sensor-on-color: var(--3ative_main_on_colour)
-  state-binary_sensor-opening-on-color: var(--3ative_main_on_colour) # Binary Sensor (Door/Window) On Colour
-  state-input_boolean-on-color: var(--3ative_main_on_colour) # Input Boolean On Colour
   state-icon-unavailable-color: var(--disabled-text-color)
 
+  # state-binary_sensor-active-color: rgb(0 0 255)
+
   ### Sliders ###
-  state-light-on-color: var(--3ative_main_on_colour) # Monochromatic Light Slider Colour
+  state-light-on-color: var(--3ative_main_on_colour) # Mono Light Slider Colour
   paper-slider-knob-color: "rgb(104, 204, 255)"
   paper-slider-knob-start-color: var(--state-icon-color) # Slider Knob Off Color
   paper-slider-pin-color: var(--state-icon-active-color)
