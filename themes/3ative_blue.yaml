@@ -51,6 +51,13 @@
 
   # state-binary_sensor-active-color: rgb(0 0 255)
 
+  ############## Dropdown Menus ##############
+  ha-color-form-background: "#363636"
+  ha-color-fill-primary-quiet-resting: var(--3ative_main_off_colour)
+  wa-color-neutral-fill-normal: var(--3ative_main_on_colour)
+  ha-color-fill-primary-normal-resting: var(--3ative_main_on_colour)
+  ha-color-form-background-hover: var(--3ative_main_off_colour)
+
   ### Sliders ###
   state-light-on-color: var(--3ative_main_on_colour) # Mono Light Slider Colour
   paper-slider-knob-color: "rgb(104, 204, 255)"
