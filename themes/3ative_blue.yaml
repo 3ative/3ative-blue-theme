@@ -13,6 +13,9 @@
   primary-bg-color: "rgb(4, 9, 31)"
   app-header-background-color: "rgb(0, 13, 34)" #Top Banner
   header-height: 60px
+  ## Side Menu Tool Tip Colours ##
+  ha-color-surface-default: var(--3ative_main_off_colour)
+  ha-tooltip-text-color: WHITE
 
   ### Cards ###
   ch-background: "rgba(0, 0, 20, 0.6)" # fix for 0.113
