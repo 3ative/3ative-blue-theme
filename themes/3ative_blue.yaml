@@ -4,64 +4,62 @@
   3ative_main_off_colour: rgb(25 76 165)
 
   ############## Main Interface ##############
-  primary-color: rgb(55, 118, 195) # Main Accent Colour
-  light-primary-color: rgb(31, 69, 115) # Logo Circle BG
-  dark-primary-color: rgb(2, 136, 209)
-  accent-color: rgb(59, 161, 165) # Circle Plus Button Color
+  primary-color: var(--3ative_main_on_colour)                                # Main Accent Colour
+  light-primary-color: rgb(31, 69, 115)                                    # Logo Circle BG
+  dark-primary-color: RED
+  accent-color: rgb(59, 161, 165)                                          # Circle Plus Button Color
   mdc-button: rgb(0, 134, 134)
-  header-height: 60px
+  success-color: rgb(129, 219, 47)
+  header-height: 27px
+
   ## Side Menu Tool Tip Colours ##
   ha-color-surface-default: var(--3ative_main_off_colour)
-  ha-color-surface-low: rgb(16, 44, 75)
-  ha-color-surface-lower: rgb(11, 22, 35)
-  ha-tooltip-text-color: WHITE
+  ha-tooltip-text-color: var(--3ative_main_on_colour)
 
   ############## Backgrounds ##############
-  primary-background-color: rgb(0, 44, 66) # Main Pages Background Colour
-  secondary-background-color: rgb(22, 48, 78) # Pop up Box Header Color
-  paper-listbox-background-color: rgb(0, 0, 0) # Side Bar Background Colour
-  sidebar-background-color: var(--paper-listbox-background-color)
+  primary-background-color: rgb(8, 12, 31)                                 # Main Pages Background Colour
+  secondary-background-color: rgb(22, 48, 78)                              # Pop up Box Header Color
+  sidebar-background-color: black
   primary-bg-color: rgb(4, 9, 31)
   app-header-background-color: rgb(0, 13, 34) # Top Banner
-  divider-color: rgb(39, 90, 132, 20%)
+  divider-color: rgba(39, 90, 132, 0.5)
 
   ############## Background Images ##############
   background-image-main: url(/local/3ative_bg.jpg) no-repeat top left / 100% 100%
 
   ############## Cards ##############
-  ch-background: rgba(0, 0, 20, 0.6) # fix for 0.113
-  mdc-theme-surface: rgb(16 44 75) # Pop up card BG fix for 0.113
+  ch-background: rgba(0, 0, 20, 0.6)                                       # fix for 0.113
+  mdc-theme-surface: rgb(16 44 75)                                           # Pop up card BG fix for 0.113
   ha-card-border-radius: 3px
-  card-background-color: rgba(0, 0, 20, 0.7) # Cards Background Colour
-  ha-view-sections-row-gap: 5px # Top of Page Padding
-  ha-view-sections-column-gap: 5px # Vertical Gap between Cards
+  card-background-color: rgba(0, 0, 20, 0.7)                               # Cards Background Colour
+  ha-view-sections-row-gap: 5px                                              # Top of Page Padding
+  ha-view-sections-column-gap: 5px                                           # Vertical Gap between Cards
   ha-space-3: 10px
   ha-space-4: 10px
   markdown-code-background-color: rgb(17, 38, 64)
-  material-background-color: var(--mdc-theme-surface) # Dropdown Menu BG
+  material-background-color: var(--mdc-theme-surface)                        # Dropdown Menu BG
   # Global box shadows (new in 2026.5)
   ha-box-shadow-s: 0 1px 2px rgba(0, 0, 0, 0.4)
   ha-box-shadow-m: 0 2px 6px rgba(0, 0, 0, 0.5)
   ha-box-shadow-l: 0 4px 12px rgba(0, 0, 0, 0.6)
-
+ 
   ############## Text ##############
-  primary-text-color: rgb(219, 224, 228) # Main Text Colour
+  primary-text-color: rgb(219, 224, 228)                                   # Main Text Colour
   secondary-text-color: rgb(18, 175, 255)
-  text-primary-color: rgb(255, 255, 255) # Page Header Text & Icon text Color
+  text-primary-color: rgb(255, 255, 255)                                   # Page Header Text & Icon text Color
   disabled-text-color: rgb(163, 163, 163)
-  lumo-body-text-color: "#03d032" # 'Logbook' Date Color
+  lumo-body-text-color: "#03d032"                                          #  Logbook Date Color
 
   ############## Sidebar Menu ##############
   sidebar-icon-color: rgba(55, 118, 195, 49%)
   sidebar-text-color: var(--primary-color)
-  # sidebar-selected-background-color: var(--primary-background-color)
-  sidebar-selected-icon-color: rgb(130, 183, 255) # Selected Icon Colour
+  sidebar-selected-icon-color: rgb(130, 183, 255)                          # Selected Icon Colour
   sidebar-selected-text-color: var(--primary-text-color)
 
   ############## Top Badges ##############
-  label-badge-background-color: rgb(0, 0, 0, 100%) # Background Colour
-  label-badge-text-color: rgb(117, 182, 255) # Text Colour
-  label-badge-red: var(--primary-color) # Border Colour
+  label-badge-background-color: rgb(0, 0, 0, 100%)                           # Background Colour
+  label-badge-text-color: rgb(117, 182, 255)                               # Text Colour
+  label-badge-red: var(--primary-color)                                      # Border Colour
   label-badge-blue: rgb(3, 155, 229)
   label-badge-green: rgb(13, 160, 53)
   label-badge-yellow: rgb(244, 180, 0)
@@ -81,27 +79,6 @@
   ha-color-fill-primary-normal-resting: var(--3ative_main_on_colour)
   wa-color-neutral-fill-normal: var(--3ative_main_on_colour)
 
-  ############## Switches / Toggles ##############
-  # OFF: track = off_colour, thumb = on_colour
-  ha-switch-background-color: var(--3ative_main_off_colour)
-  ha-switch-thumb-background-color: var(--3ative_main_on_colour)
-  ha-switch-background-color-hover: var(--3ative_main_off_colour)
-  ha-switch-thumb-background-color-hover: var(--3ative_main_on_colour)
-  # ON: track = on_colour, thumb = off_colour
-  ha-switch-checked-background-color: var(--3ative_main_on_colour)
-  ha-switch-checked-thumb-background-color: var(--3ative_main_off_colour)
-  ha-switch-checked-background-color-hover: var(--3ative_main_on_colour)
-  ha-switch-checked-thumb-background-color-hover: var(--3ative_main_off_colour)
-  # Borders (both states)
-  ha-switch-border-color: BLACK
-  ha-switch-thumb-border-color: BLACK
-  ha-switch-thumb-border-color-hover: BLACK
-  ha-switch-checked-border-color: BLACK
-  ha-switch-checked-thumb-border-color: BLACK
-  ha-switch-checked-border-color-hover: BLACK
-  ha-switch-checked-thumb-border-color-hover: BLACK
-  # Thumb glow (applies to both states — single var)
-  ha-switch-thumb-box-shadow: 0 0 10px 4px var(--3ative_main_on_colour)
 
   ############## Checkboxes ##############
   ha-checkbox-border-color: BLACK
@@ -111,15 +88,30 @@
   ha-checkbox-checked-background-color-hover: var(--3ative_main_on_colour)
   ha-checkbox-checked-icon-color: var(--3ative_main_off_colour)
 
-  ############## Sliders ##############
-  paper-slider-knob-color: rgb(104, 204, 255)
-  paper-slider-knob-start-color: var(--state-icon-color) # Slider Knob Off Color
-  paper-slider-pin-color: var(--state-icon-active-color)
-  paper-slider-active-color: rgb(55, 110, 138) # Slider On track Color
-  paper-slider-secondary-color: var(--light-primary-color)
-  paper-slider-container-color: var(--slider-bar-color) # Slider Bar OFF Colour
-  slider-bar-color: rgb(0 169 255 / 30%)
-  ha-paper-slider-pin-font-size: 15px
+  ############## Sliders/Switches ##############
+  disabled-color: var(--3ative_main_off_colour)                              # Slider Track
+  ha-slider-track-size: 2px                                                  # Slider Track Size
+  ha-slider-thumb-color: var(--3ative_main_on_colour)                        # Slider Thumb Colour
+
+  ha-switch-checked-background-color: var(--3ative_main_off_colour)          # Switch On
+  ha-switch-checked-border-color: var(--3ative_main_off_colour)              # Switch On Border
+  ha-switch-border-color: var(--3ative_main_off_colour)                      # Switch Off Border
+  ha-switch-checked-border-color-hover: BLACK                                # Switch On Hover Border
+  ha-switch-background-color: var(--3ative_main_off_colour)                  # Switch BG Off
+  ha-switch-background-color-hover: var(--3ative_main_off_colour)            # Switch BG Off Hover
+  ha-switch-checked-background-color-hover: var(--3ative_main_off_colour)    # Switch BG On Hover
+
+  ha-switch-checked-thumb-background-color: var(--3ative_main_on_colour)     # Thumb On
+  ha-switch-checked-thumb-border-color: WHITE                                # Thumb On Border
+  ha-switch-checked-thumb-background-color-hover: WHITE                      # Thumb On Hover
+  ha-switch-checked-thumb-border-color-hover: BLACK                          # Thumb On Border Hover
+
+  ha-switch-thumb-background-color: var(--3ative_main_off_colour)            # Thumb Off
+  ha-switch-thumb-border-color: BLACK                                        # Thumb Off Border
+  ha-switch-thumb-background-color-hover: WHITE                              # Thumb Off Hover
+  ha-switch-thumb-border-color-hover: WHITE                                  # Thumb Off Hover Border
+
+  ha-switch-thumb-box-shadow: 0 0 10px 3px var(--3ative_main_on_colour)      # Thumb On/Off Glow
 
   ############## Progress Bars ##############
   ha-progress-bar-indicator-color: var(--3ative_main_on_colour)
@@ -127,19 +119,18 @@
 
   ############## Icons / States ##############
   button-card-light-color: rgb(255 0 0)
-  state-switch-active-color: var(--3ative_main_on_colour) # Light Switch On Colour
-  state-switch-on-color: var(--3ative_main_on_colour) # Switch On Colour
+  state-switch-active-color: var(--3ative_main_on_colour)                   # Light Switch On Colour
+  state-switch-on-color: var(--3ative_main_on_colour)                       # Switch On Colour
   state-automation-active-color: var(--3ative_main_on_colour)
   state-binary_sensor-on-color: var(--3ative_main_on_colour)
-  state-binary_sensor-opening-on-color: var(--3ative_main_on_colour) # Binary Sensor (Door/Window) On Colour
-  state-binary_sensor-motion-on-color: var(--3ative_main_on_colour) # Binary Sensor (Motion) On Colour
-  state-input_boolean-on-color: var(--3ative_main_on_colour) # Input Boolean On Colour
-  state-person-home-color: var(--3ative_main_on_colour) # Person "Home" Colour
-  state-light-on-color: var(--3ative_main_on_colour) # Mono Light Slider Colour
+  state-binary_sensor-opening-on-color: var(--3ative_main_on_colour)        # Binary Sensor (Door/Window) On Colour
+  state-binary_sensor-motion-on-color: var(--3ative_main_on_colour)         # Binary Sensor (Motion) On Colour
+  state-input_boolean-on-color: var(--3ative_main_on_colour)                # Input Boolean On Colour
+  state-person-home-color: var(--3ative_main_on_colour)                     # Person "Home" Colour
+  state-light-on-color: var(--3ative_main_on_colour)                        # Mono Light Slider Colour
   state-icon-unavailable-color: var(--disabled-text-color)
-  paper-item-icon-color: var(--state-icon-color) # Icon OFF COLOUR
+  paper-item-icon-color: var(--state-icon-color)                            # Icon OFF COLOUR
   paper-item-icon-active-color: var(--state-icon-active-color)
-  # state-binary_sensor-active-color: rgb(0 0 255)
 
   ############## Tables ##############
   table-row-background-color: rgb(0, 0, 0)
