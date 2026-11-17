@@ -5,6 +5,9 @@
 
 > My 'Blue' theme, give a cool electric feel to LoveLace.
 
+> ✨ **New: [3ATIVE SiFi 01](https://github.com/3ative/3ative-sifi-theme)** - my newer sci-fi control-room theme, with frosted-glass cards and a blue glow.
+> Find it in the Home Assistant Marketplace: Settings > Marketplace, search for **3ATIVE SiFi 01**.
+
 **Download the background "3ative_bg.jpg" https://github.com/3ative/3ative-blue-theme/blob/master/3ative_bg.jpg and save it in your `/config/www/` folder...** or use your own (just use the same file name) 😎
 
 
